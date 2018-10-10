@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\GC.Lab_5\GC.Lab_5\obj\Debug\GC.Lab_5.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\GC.Lab_5\GC.Lab_5\obj\Debug\GC.Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\GC.Lab_5\GC.Lab_5\bin\Debug\GC.Lab_5.exe.config
+C:\Users\jstiles\source\repos\GC.Lab_5\GC.Lab_5\bin\Debug\GC.Lab_5.exe
+C:\Users\jstiles\source\repos\GC.Lab_5\GC.Lab_5\bin\Debug\GC.Lab_5.pdb
+C:\Users\jstiles\source\repos\GC.Lab_5\GC.Lab_5\obj\Debug\GC.Lab_5.exe
+C:\Users\jstiles\source\repos\GC.Lab_5\GC.Lab_5\obj\Debug\GC.Lab_5.pdb
